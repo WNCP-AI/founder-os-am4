@@ -4,6 +4,10 @@ A cloneable product workspace for the **Access Mode AI-Driven Product Week**
 (Jun 15–18, 2026), built by [WNCP AI](https://wncp.ai). You run the whole week inside this
 repo — and you keep it after.
 
+> **📍 Program home base: [am4.events.wncp.ai](https://am4.events.wncp.ai/)** — schedule,
+> session details, logistics, and everything else about the week lives there. This repo is
+> the workspace; that's the information hub.
+
 It's an **agentic operating system**: a folder of markdown files, conventions, and skills
 that an AI agent (Claude Code) reads and works in. You load it with your own customer
 discovery data, then run the product pipeline against it — value proposition → user
