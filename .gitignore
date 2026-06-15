@@ -1,0 +1,57 @@
+# OS
+.DS_Store
+.AppleDouble
+Thumbs.db
+
+# Secrets — never commit
+.env
+.env.*
+
+# Generated from AGENTS.md by setup — regenerate, don't edit
+CLAUDE.md
+
+# Raw discovery data — any format, possibly sensitive; stays on your machine.
+# The processed/ folder IS tracked: that's your standardized working data.
+5_Library/sources/raw/*
+!5_Library/sources/raw/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node
+node_modules/
+
+# Editor / tool state — local, never shipped to founders
+.obsidian/
+.vscode/
+.cursor/
+.idea/
+
+# AI assistant local state — personal, do not commit
+.claude/*
+# ...but allow an intentionally-shared project config if one is ever added
+!.claude/settings.json
+# remember-plugin memory buffer + logs (also self-ignored via .remember/.gitignore)
+.remember/
+
+# Local scratch
+0_System/dev/
+
+# Build artifacts — authoring-side docx/pptx tooling output (never shipped)
+**/_build/
+5_Library/templates/build/
+5_Library/templates/dist/
+*.tmp
+
+# Internal / authoring material — WNCP-only, must never reach the public repo
+0_System/initial_build/
+0_System/spec/
+.agents/skills/_build-tools/
+.agents/1_AMC4_Product_Week/
+5_Library/roadmap/Internal/
+
+# Logs
+*.log

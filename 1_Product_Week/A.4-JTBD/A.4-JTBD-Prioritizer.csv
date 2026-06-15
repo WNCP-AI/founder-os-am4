@@ -1,0 +1,16 @@
+HOW TO USE THIS TEMPLATE
+Step 1 — Write the job (never the solution). Fill columns B–D so each row reads as one sentence: When [situation] / I want to [motivation] / So I can [outcome]. Keep solutions out. If you write "so I can drink a milkshake" you have described a product not a job.
+Step 2 — Tag the dimension. Functional = the practical task. Emotional = how they want to feel. Social = how they want to be seen. Most founders only design for the functional; the other two are where adoption is won.
+Step 3 — Score two things on a 1–10 scale. Importance = how much the customer cares about getting this job done. Satisfaction = how well current options already get it done. Early-stage: score your hypotheses. Have customers: score from interviews so the ranking is real.
+"Step 4 — Compute the Opportunity Score by hand or in a spreadsheet. Formula: Opportunity = Importance + MAX(Importance minus Satisfaction, 0). A job that is important but poorly served is underserved — build there. A job already well served is overserved — competing there is a trap."
+"Step 5 — Read the verdict. ≥ 15 = Prioritize (underserved — build here first). 12–14 = Strong opportunity. 10–11 = Consider. < 10 = Deprioritize (overserved or low-importance). The top-scoring job becomes the problem statement in your PRD."
+,,,,,,,,,
+NOTE: This is an OPTIONAL manual first-cut. The primary prioritization path is the jtbd-prioritizer AI skill (conversational — runs 5 dimensions automatically from 2_Outputs/.agents/A.4-JTBD/JTBD.md). Use this CSV for a fast quantitative gut-check only.
+,,,,,,,,,
+Job #,When,I want to,So I can,Dimension,Importance (1-10),Satisfaction (1-10),Opportunity Score,Verdict,Keep/Kill
+"1 (example)","I need to track monthly spending across multiple accounts","see all my money in one place instantly","make confident decisions without digging through statements",Functional,9,3,15,"Prioritize — underserved, build here first",Keep
+2,,,,,,,,,
+3,,,,,,,,,
+4,,,,,,,,,
+5,,,,,,,,,
+6,,,,,,,,,

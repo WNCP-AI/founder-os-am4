@@ -1,0 +1,81 @@
+{
+  "version": "2",
+  "_note": "Slim state registry — enabled flags only. Source of truth for what each skill is and when it fires = the SKILL.md frontmatter under .agents/skills/. Regenerate with 0_System/scripts/scan-skills.py. Do not hand-edit.",
+  "skills": [
+    {
+      "name": "find-skills",
+      "path": "find-skills/SKILL.md",
+      "enabled": true
+    },
+    {
+      "name": "founder-bootstrap",
+      "path": "wncp-ai/1-founder-bootstrap/SKILL.md",
+      "enabled": true
+    },
+    {
+      "name": "ingest-sources",
+      "path": "wncp-ai/2-ingest-sources/SKILL.md",
+      "enabled": true
+    },
+    {
+      "name": "am4-customer-discovery-coach",
+      "path": "wncp-ai/3-customer-discovery-coach/SKILL.md",
+      "enabled": true
+    },
+    {
+      "name": "am4-value-proposition",
+      "path": "wncp-ai/4-value-proposition/SKILL.md",
+      "enabled": true
+    },
+    {
+      "name": "am4-user-persona",
+      "path": "wncp-ai/5-user-persona/SKILL.md",
+      "enabled": true
+    },
+    {
+      "name": "am4-jtbd",
+      "path": "wncp-ai/6-jtbd/SKILL.md",
+      "enabled": true
+    },
+    {
+      "name": "am4-jtbd-prioritizer",
+      "path": "wncp-ai/7-jtbd-prioritizer/SKILL.md",
+      "enabled": true
+    },
+    {
+      "name": "am4-prd",
+      "path": "wncp-ai/8-draft-prd/SKILL.md",
+      "enabled": true
+    },
+    {
+      "name": "am4-metrics",
+      "path": "wncp-ai/9-metrics/SKILL.md",
+      "enabled": true
+    },
+    {
+      "name": "import-skills",
+      "path": "wncp-ai/import-skills/SKILL.md",
+      "enabled": true
+    },
+    {
+      "name": "ingest-init",
+      "path": "wncp-ai/ingest-init/SKILL.md",
+      "enabled": true
+    },
+    {
+      "name": "util_get_company_info",
+      "path": "wncp-ai/util_/util_get_company_info/SKILL.md",
+      "enabled": true
+    },
+    {
+      "name": "util_get_inputs",
+      "path": "wncp-ai/util_/util_get_inputs/SKILL.md",
+      "enabled": true
+    },
+    {
+      "name": "util_get_user_info",
+      "path": "wncp-ai/util_/util_get_user_info/SKILL.md",
+      "enabled": true
+    }
+  ]
+}
