@@ -1,11 +1,7 @@
 # A.6-Show-What-You-Broke
 
-Mon Jun 15 · 3:45–4:00 PM · In-person — Valerius Living, Denver · 1m prompt / ~14m share-out.
+Mon Jun 15 · 3:45–4:00 PM · In-person
 
-Close Day 1 with a psychological safety ritual: every founder shares one AI-related moment where things blew up and what they took from it. Scope is intentionally broad — the Founder OS, the prototype, any AI tool used during the day.
+A 15-minute share-out at the end of Day 1. Each founder shows one thing that broke during the build and the one thing it taught them. The "Biggest FML Moment" superlative is awarded at the close — speed creates breakage by design, and the mess gets normalized.
 
-**The beat — breakage is a signal, not a failure.** Speed creates mess by design; the mess is evidence of real output. Each founder names one thing that broke and the one thing it taught them. Program Team awards the "Biggest FML Moment" superlative to close.
-
-**What you do.** Go around the room in round-robin order; each founder takes ~1 minute — keep it moving. No slides, no template, no debrief structure. The only facilitation artifact is the 1-minute spoken prompt.
-
-**Where work goes.** No written output is produced; no template, no rubric. This is an ephemeral verbal ritual — do not add a template or capture unless the program decides otherwise.
+This folder is the in-session working space. You complete the template **by hand** and it stays here; the agent's derived markdown deliverable goes to `2_Outputs/.agents/<session>/`. Session plan and naming convention: `0_System/spec/Founder OS PRD v1.md`, §A.1.

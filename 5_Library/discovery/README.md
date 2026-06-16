@@ -14,13 +14,14 @@ These assets support founders in moving from assumptions to evidence before buil
 
 | Path | Type | What it is |
 |---|---|---|
+| `Customer-Discovery-Deck.pptx` | Binary | Slide deck version of the one-pager — used for session presentation |
 | `Customer-Discovery-One-Pager.md` | Markdown | Founder-facing overview explaining the two-tool kit and 6-step sequence |
 | `Customer-Discovery-Tracker.xlsx` | Binary | Five-tab Excel tracker; hypotheses entered once in the Guide tab, all other tabs populate automatically |
 | `founder-kit/Customer-Discovery-Kit.zip` | Binary | Packaged zip of the kit distributed to founders |
 | `founder-kit/Customer-Discovery-Tracker.xlsx` | Binary | Tracker copy distributed inside the founder kit |
 | `founder-kit/START-HERE.md` | Markdown | Founder-facing instructions: how to install the skill, run a coaching session, and use the tracker |
 
-> **The coach skill** ships with the OS at `.agents/skills/wncp-ai/3-customer-discovery-coach/` — find it with `find-skills` (say "get me started" or ask for customer discovery help). `founder-kit/START-HERE.md` covers running a coaching session and using the tracker.
+> **Skill files not here:** `SKILL.MD` and `customer-discovery-coach.skill` remain in their source location under `0_System/initial_build/Input_Session_Deliverables/Deliverables/1-Customer-Discovery/` — skill distribution is handled by a separate skills migration run.
 
 ## Session / Phase
 

@@ -35,3 +35,6 @@ machine-readable reference). Do not collapse them into one.
   pipeline skill's `reference/output-format.md` — the founder transcribes from
   the skill's chat into the matching field. Renaming a field in the template
   breaks that copy step; do not paraphrase.
+- **Authoring.** New or revised templates are produced by the
+  `0_System/initial_build/template-simplifier/` skill. To re-derive a template,
+  invoke that skill — do not hand-edit against the target shape.

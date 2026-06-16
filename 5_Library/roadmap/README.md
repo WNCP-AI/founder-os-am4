@@ -17,6 +17,9 @@ These assets give founders a Now/Next/Later prioritization board and a companion
 | `hypothesis_roadmap.xlsx` | Binary | Now/Next/Later roadmap board with (Impact × Confidence) / Effort scoring, Kill list, and per-item drill-down |
 | `hypothesis_tracker.xlsx` | Binary | Hypothesis tracking workbook — links to PRD Section 7 assumptions and tracks validation status across cycles |
 | `D Roadmapping Template & Skills.md` | Markdown | Full PRD for the Roadmapping session (session D): scoring rubric, founder process, format spec, failure states, and callouts per cohort company |
+| `Internal/hypothesis_roadmap.xlsx` | Binary | Internal working copy of the roadmap template (pre-release version) |
+| `Internal/hypothesis_tracker.xlsx` | Binary | Internal working copy of the hypothesis tracker (pre-release version) |
+| `Internal/notion utl.md` | Markdown | Notion database URL for the internal roadmapping workspace |
 
 ## Session / Phase
 

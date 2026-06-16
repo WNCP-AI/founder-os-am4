@@ -48,6 +48,11 @@
       "enabled": true
     },
     {
+      "name": "am4-spec-docs",
+      "path": "wncp-ai/8.5-spec-docs/SKILL.md",
+      "enabled": true
+    },
+    {
       "name": "am4-metrics",
       "path": "wncp-ai/9-metrics/SKILL.md",
       "enabled": true
