@@ -58,6 +58,7 @@ missing primary source is never a stop — the calling skill recovers it with th
 | `jtbd` (A.4-JTBD) | `A.3-Value-Prop` output · `A.3-User-Persona` output · company ground truth · `A.4-JTBD` session template | discovery evidence |
 | `jtbd-prioritizer` (A.4-JTBD) | `A.4-JTBD` output · company ground truth | — |
 | `draft-prd` (A.5-PRD-v1 / C.3-PRD-v2) | `A.3-Value-Prop` · `A.3-User-Persona` · `A.4-JTBD-Prioritized` outputs · company ground truth · session template (`A.5-PRD-v1`, or `C.3-PRD-v2` in v2 mode) · `A.5-PRD-v1` output (v2 mode — v2 extends v1) | v2 mode: `C.2-Metrics-OKR` output |
+| `spec-docs` (A.5-Prototyping-1) | `A.5-PRD-v1` output · company ground truth · spec-doc templates (`1_Product_Week/A.5-Prototyping-1/templates/`) | founder profile |
 | `metrics` (C.2-Metrics-OKR) | `A.5-PRD-v1` output · `A.4-JTBD-Prioritized` output · company ground truth · `C.2-Metrics-OKR` session template | discovery evidence |
 | `customer-discovery-coach` (pre-A.3) | discovery evidence · company ground truth | founder profile |
 
