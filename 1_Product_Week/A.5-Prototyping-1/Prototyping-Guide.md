@@ -95,7 +95,7 @@ Stitch ·         Google AI Studio     Supabase ·     Claude Code ·
 Claude Design                         Firebase       Codex
 ```
 
-> **The full toolbox.** Each stage below names the tools we recommend — but they are not the only options. The [**Prototyping Guides** library](https://app.notion.com/p/wncp-ai/37dc814a1f2880db895eff15940127b2?v=37dc814a1f2880a7983c000cfbec2989) in Notion has the complete set: every builder, database, and agent, researched and tagged by level, type, and free tier.
+> **The full toolbox.** Each stage below names the tools we recommend — but they are not the only options. The [**Prototyping Guides** library](https://app.notion.com/p/wncp-ai/37dc814a1f2880db895eff15940127b2?v=37dc814a1f2880a7983c000cfbec2989) in Notion has the complete set: every builder, database, and agent, fully researched and tagged by level and type. Each tool below links to its own guide there.
 
 ### Stage 01 — Front end · make it look real
 
